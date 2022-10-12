@@ -1,0 +1,45 @@
+body {
+    background-color:#2596be ;
+}
+
+.container-div{
+    background-color: #ff8c00;  
+    font-size: 15px;
+    height: 50%;
+    width: 32%;
+
+}
+
+.h1-div {
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+
+.container-footer {
+    display: flex;
+    justify-content:left;
+    align-items: left;
+}
+
+.h1-footer {
+    background-color:#ff8c00 ;
+    justify-content: left;
+    align-items: left;
+    font-size: 30px;
+}
+
+.content-gambar {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+.img-gambar {
+    height: 250px;
+    width: 250px;
+}
+
+.paragraf1 {
+    font-size: 23px;
+}
+
